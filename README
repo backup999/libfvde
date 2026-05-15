@@ -5,7 +5,7 @@ The FVDE format is used by Mac OS X, as of Lion (10.7), to encrypt data on a sto
 Project information:
 
 * Status: experimental
-* Licence: LGPLv3+
+* Licence: LGPL-3.0-or-later
 
 Supported Core Storage / FileVault2 implementations:
 
